@@ -2,15 +2,16 @@ Package: cats
 Title: workshop use cats
 Version: 2.0.0
 Authors@R: 
-    person(given = "xx",
-           family = "xx",
-           role = c("aut", "cre"))
+    person(given = "xinge",
+           family = "wang",
+           role = c("aut", "cre"),
+           email = "xwang234@uic.edu")
 Description: this is cats 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.0
+RoxygenNote: 7.2.0
 Depends: 
     DESeq2
 Suggests: 
