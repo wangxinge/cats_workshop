@@ -1,4 +1,4 @@
-Package: cats_workshop
+Package: cats
 Title: workshop use cats
 Version: 2.0.0
 Authors@R: 
@@ -17,7 +17,7 @@ Suggests:
     knitr,
     rmarkdown,
     pkgdown
-URL: https://wangexinge.github.io/cats_workshop/
+URL: https://wangexinge.github.io/cats_workshop
 BugReports: https://github.com/wangxinge/cats_workshop/issues/new/choose
 VignetteBuilder: knitr
 DockerImage: ghcr.io/wangxinge/cats_workshop:latest
