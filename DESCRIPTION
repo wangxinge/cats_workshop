@@ -5,7 +5,7 @@ Authors@R:
     person(given = "xx",
            family = "xx",
            role = c("aut", "cre"))
-Description: xxxxx. 
+Description: this is cats 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
